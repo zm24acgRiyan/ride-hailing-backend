@@ -7,10 +7,10 @@
     "\\src\\main\\java\\com",
     "\\src\\main\\java\\com\\riyan",
     "\\src\\main\\java\\com\\riyan\\ridehailing",
+    "\\src\\main\\java\\com\\riyan\\ridehailing\\controller",
     "\\src\\main\\java\\com\\riyan\\ridehailing\\model",
-    "\\src\\main\\resources",
-    "\\src\\test"
+    "\\src\\main\\java\\com\\riyan\\ridehailing\\repository"
   ],
-  "SelectedNode": "\\src\\main\\java\\com\\riyan\\ridehailing\\controller\\HomeController.java",
+  "SelectedNode": "\\src\\main\\java\\com\\riyan\\ridehailing\\controller\\RideController.java",
   "PreviewInSolutionExplorer": false
 }
