@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\riyan\\OneDrive\\Desktop\\Resumes i need\\ridehailing\\ridehailing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\riyan\\OneDrive\\Desktop\\Resumes i need\\ridehailing\\ridehailing\\src\\main\\java\\com\\riyan\\ridehailing\\controller\\HomeController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\riyan\\ridehailing\\controller\\HomeController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\riyan\\OneDrive\\Desktop\\Resumes i need\\ridehailing\\ridehailing\\src\\main\\java\\com\\riyan\\ridehailing\\model\\User.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\riyan\\ridehailing\\model\\User.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.java",
+              "DocumentMoniker": "C:\\Users\\riyan\\OneDrive\\Desktop\\Resumes i need\\ridehailing\\ridehailing\\src\\main\\java\\com\\riyan\\ridehailing\\controller\\HomeController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\riyan\\ridehailing\\controller\\HomeController.java",
+              "ToolTip": "C:\\Users\\riyan\\OneDrive\\Desktop\\Resumes i need\\ridehailing\\ridehailing\\src\\main\\java\\com\\riyan\\ridehailing\\controller\\HomeController.java",
+              "RelativeToolTip": "src\\main\\java\\com\\riyan\\ridehailing\\controller\\HomeController.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2025-05-27T01:09:20.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "User.java",
               "DocumentMoniker": "C:\\Users\\riyan\\OneDrive\\Desktop\\Resumes i need\\ridehailing\\ridehailing\\src\\main\\java\\com\\riyan\\ridehailing\\model\\User.java",
               "RelativeDocumentMoniker": "src\\main\\java\\com\\riyan\\ridehailing\\model\\User.java",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RidehailingApplication.java",
               "DocumentMoniker": "C:\\Users\\riyan\\OneDrive\\Desktop\\Resumes i need\\ridehailing\\ridehailing\\src\\main\\java\\com\\riyan\\ridehailing\\RidehailingApplication.java",
               "RelativeDocumentMoniker": "src\\main\\java\\com\\riyan\\ridehailing\\RidehailingApplication.java",
